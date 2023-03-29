@@ -9,7 +9,6 @@ function App() {
       <Header></Header>
       <Navigation></Navigation>
       <Container></Container>
-      
     </div>
   );
 }
